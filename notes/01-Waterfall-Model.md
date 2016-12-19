@@ -1,4 +1,0 @@
-# Waterfall Method
-
-
-[BACK](/notes)
