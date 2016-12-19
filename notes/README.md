@@ -42,19 +42,11 @@ Once the product is tested and ready to be deployed it is released formally in t
 Then based on the feedback, the product may be released as it is or with suggested enhancements in the targeting market segment. After the product is released in the market, its maintenance is done for the existing customer base.
 
 ## SDLC or SDP (Software Development Process) Models
-- [1. Waterfall Model]()
-- [2. Iterative Model]()
-- [3. Spiral Model]()
-- [4. V-Model]()
-- [5. BigBang Model]()
-- [6. Agile Model]()
-- [7. RAD Model]()
+- [1. Waterfall Model](01-Waterfall-Model.md)
+- [2. Iterative Model](02-Iterative-Model.md)
+- [3. Spiral Model](03-Spiral-Model.md)
+- [4. V-Model](04-V-Model.md)
+- [5. BigBang Model](05-BigBang-Model.md)
+- [6. Agile Model](06-Agile-Model.md)
+- [7. RAD Model](07-RAD-Model.md)
 - [8. Software Prototype](08-Software-Prototype.md)
-01-Waterfall-Model.md
-02-Iterative-Model.md
-03-Spiral-Model.md
-04-V-Model.md
-05-BigBang-Model.md
-06-Agile-Model.md
-07-RAD-Model.md
-
