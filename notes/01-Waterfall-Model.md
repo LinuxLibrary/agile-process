@@ -1,4 +1,4 @@
 # Waterfall Method
 
 
-[BACK](../)
+[BACK](/notes)
