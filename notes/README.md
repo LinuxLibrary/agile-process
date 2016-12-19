@@ -8,3 +8,5 @@
 
 ***What is SDLC?***
 
+
+![GitHub Logo](/images/SDLC-Life-Cycle.JPG)
