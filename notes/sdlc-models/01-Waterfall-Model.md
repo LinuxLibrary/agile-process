@@ -1,4 +1,4 @@
 # Waterfall Method
 
 
-[BACK](/notes/sdlc-models)
+[BACK](/notes)
