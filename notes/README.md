@@ -49,4 +49,12 @@ Then based on the feedback, the product may be released as it is or with suggest
 - [5. BigBang Model]()
 - [6. Agile Model]()
 - [7. RAD Model]()
-- [8. Software Prototype]()
+- [8. Software Prototype](08-Software-Prototype.md)
+01-Waterfall-Model.md
+02-Iterative-Model.md
+03-Spiral-Model.md
+04-V-Model.md
+05-BigBang-Model.md
+06-Agile-Model.md
+07-RAD-Model.md
+
