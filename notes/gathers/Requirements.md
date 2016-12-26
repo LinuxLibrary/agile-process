@@ -14,7 +14,7 @@
 5. Dev. & Ops. Collaboration
 6. Technologies for DevOps
 	- Version Control
-	- Languages for Automation
+	- Languages for Task Automation
 	- Cloud Technologies (Priv. & Pub.)
 	- Configuration Management
 	- Continuous Integration / Deployment
