@@ -3,8 +3,8 @@
 1. What is SDLC?
 2. List of Software Development Processes
 
-	a. Waterfall Model
-	b. Iterative Model
+	i. Waterfall Model
+	ii. Iterative Model
 	c. Spiral Model
 	d. V-Model
 	e. BigBang Model
