@@ -20,8 +20,12 @@
 	- Continuous Integration / Deployment
 	- Container Services & Clustering (Docker & Kubernets)
 	- Orchestration
-7. Know before the Impact
+7. DevOps Security issues and fixes
+
+8. Know before the Impact
 	- Monitor and fix
+
+9. Track and Manage Issues
 	- Incident Management
 	- Change Management
-8. DevOps Career Planning
+10. DevOps Career Planning
