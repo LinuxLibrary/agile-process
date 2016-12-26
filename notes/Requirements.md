@@ -2,6 +2,7 @@
 
 1. What is SDLC?
 2. List of Software Development Processes
+
 	a. Waterfall Model
 	b. Iterative Model
 	c. Spiral Model
@@ -9,10 +10,12 @@
 	e. BigBang Model
 	f. Agile Model
 	g. RAD Model
+
 3. What is DevOps?
 4. Dev. vs Ops.
 5. Dev. & Ops. Collaboration
 6. Technologies for DevOps
+
 	a. Version Control
 	b. Languages for Automation
 	c. Cloud Technologies (Priv. & Pub.)
@@ -20,5 +23,6 @@
 	e. Continuous Integration / Deployment
 	f. Container Services & Clustering (Docker & Kubernets)
 	g. Orchestration
+
 7. Know before the Impact
 8. DevOps Career Planning
