@@ -1,7 +1,7 @@
 # DevOps and Software Development Life Cycle (SDLC)
 
 1. What is SDLC?
-2. List of Software Development Processes
+2. Software Development Processes
 	- Waterfall Model
 	- Iterative Model
 	- Spiral Model
