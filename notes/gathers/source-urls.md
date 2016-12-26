@@ -1,10 +1,11 @@
 # Source URLs for the topics
 
-1.What is SDLC?
+- 1. What is SDLC?
 ```
 
 ```
-2.Software Development Processes
+
+- 2. Software Development Processes
 ```
 
 	- Waterfall Model
@@ -33,7 +34,7 @@
 	https://en.wikipedia.org/wiki/Structured_systems_analysis_and_design_method
 ```
 
-3. What is DevOps?
+- 3. What is DevOps?
 ```
 	https://en.wikipedia.org/wiki/DevOps
 	https://techcrunch.com/2015/05/15/what-is-devops/
@@ -52,20 +53,20 @@
 
 ```
 
-4. Dev. vs Ops.
+- 4. Dev. vs Ops.
 ```
 	http://www.kovair.com/blog/the-battle-dev-vs-ops/
 	https://jeffknupp.com/blog/2014/04/15/how-devops-is-killing-the-developer/
 	https://sdarchitect.blog/2012/10/16/understanding-devops-part-3-dev-vs-ops/
 ```
 
-5. Dev. & Ops. Collaboration
+- 5. Dev. & Ops. Collaboration
 ```
 	https://sdarchitect.blog/2012/10/16/understanding-devops-part-3-dev-vs-ops/
 	https://dzone.com/articles/dev-and-ops-cooperation
 ```
 
-6. Technogies for DevOps
+- 6. Technogies for DevOps
 ```
 	- Version Control
 	https://git-scm.com/book/en/v2/Getting-Started-About-Version-Control
@@ -91,23 +92,23 @@
 	Mesos & Marathon
 ```
 
-7. DevOps Securities (DevSecOps)
+- 7. DevOps Securities (DevSecOps)
 ```
 	Snort
 ```
 
-8. Know before the Impact
+- 8. Know before the Impact
 ```
 	Monitor: SiteScope, Nagios, LogicMonitor, NewRelic, CloudWatch
 ```
 
-9. Track and Manage Issues
+- 9. Track and Manage Issues
 ```
 	- Incident Management
 	- Change Management
 ```
 
-10. DevOps Career Planning
+- 10. DevOps Career Planning
 ```
 	Technologies to choose
 ```
