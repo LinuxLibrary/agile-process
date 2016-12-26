@@ -75,5 +75,39 @@
 	- Languages for Task Automation
 	Shell, Perl, Python, Ruby
 
-	- 
+	- Cloud Technologies (Priv. & Pub.)
+	Open Stack, AWS, Azure, Google Cloud Platform
+
+	- Configuration Management
+	Puppet, Chef, Salt, Ansible
+
+	- Continuous Integration / Deployment
+	Jenkins
+
+	- Container Services & Clustering
+	Docker, Kubernets
+
+	- Orchestration
+	Mesos & Marathon
+```
+
+7. DevOps Securities (DevSecOps)
+```
+	Snort
+```
+
+8. Know before the Impact
+```
+	Monitor: SiteScope, Nagios, LogicMonitor, NewRelic, CloudWatch
+```
+
+9. Track and Manage Issues
+```
+	- Incident Management
+	- Change Management
+```
+
+10. DevOps Career Planning
+```
+	Technologies to choose
 ```
