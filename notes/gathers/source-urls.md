@@ -4,13 +4,13 @@
 ```
 
 ```
-
 2. Software Development Processes
 ```
 
 	- Waterfall Model
 	https://en.wikipedia.org/wiki/Waterfall_model
 	http://istqbexamcertification.com/what-is-waterfall-model-advantages-disadvantages-and-when-to-use-it/
+
 	- Iterative Model
 	https://en.wikipedia.org/wiki/Iterative_and_incremental_development
 	https://en.wikipedia.org/wiki/Object-oriented_analysis_and_design
