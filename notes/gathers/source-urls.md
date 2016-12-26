@@ -1,10 +1,10 @@
 # Source URLs for the topics
 
-1. What is SDLC?
+1.What is SDLC?
 ```
 
 ```
-2. Software Development Processes
+2.Software Development Processes
 ```
 
 	- Waterfall Model
