@@ -27,3 +27,6 @@ This phase is critical to the success of the project. Expectations either of a c
 * Build multiple use cases to describe each action that a user will take in the new system.
 * Prototypes can be built to show the client what the end product will look like.
 
+**2. Design**
+
+Technical design requirements are prepared in this phase by lead development staff that can include architects and lead developers.  The Business Requirements are used to define how the application will be written.  Technical requirements will detail database tables to be added, new transactions to be defined, security processes and hardware and system requirements.
