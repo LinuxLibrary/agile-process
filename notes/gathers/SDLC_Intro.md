@@ -10,7 +10,7 @@ SDLC is a process followed for a software project, within a software organizatio
 
 The following figure is a graphical representation of the various stages of a typical SDLC.
 
-![SDLC-Life-Cycle](images/SDLC-Life-Cycle.JPG)
+![SDLC-Life-Cycle](/notes/images/SDLC-Life-Cycle.JPG)
 
 A typical Software Development life cycle consists of the following stages:
 
