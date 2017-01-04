@@ -21,6 +21,7 @@ There are following six phases in every Software development life cycle model:
 
 ***1. Requirement gathering and analysis***
 This phase is critical to the success of the project.  Expectations either of a client or your team need to be fleshed out in great detail and documented.  This is an iterative process with much communication taking place between stakeholders, end users and the project team.  The following techniques can be used to gather requirements:
+
 	- Identify and capture stakeholder requirements using customer interviews and surveys.
 	- Build multiple use cases to describe each action that a user will take in the new system.
 	- Prototypes can be built to show the client what the end product will look like.
