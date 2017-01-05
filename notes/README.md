@@ -62,9 +62,9 @@ Due to the different types of projects have different requirements, it may be re
 
 Below are some popular Software Development Models:
 
-- Waterfall
-- Iterative and Incremental
-- Spiral
-- V-Model
-- Agile
-- Rapid Action Development (RAD)
+- [Waterfall](/notes/sdlc-models/01-Waterfall-Model.md)
+- [Iterative and Incremental](/notes/sdlc-models/02-Iterative-Model.md)
+- [Spiral](/notes/sdlc-models/03-Spiral-Model.md)
+- [V-Model](/notes/sdlc-models/04-V-Model.md)
+- [Agile](/notes/sdlc-models/05-Agile-Model.md)
+- [Rapid Action Development (RAD)](/notes/sdlc-models/06-RAD-Model.md)
