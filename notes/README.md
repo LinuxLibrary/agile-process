@@ -12,7 +12,7 @@ There are following six phases in every Software development life cycle model:
 
 1. Requirement gathering and analysis
 2. Design
-3. Implementation or coding
+3. Development
 4. Testing
 5. Deployment
 6. Maintenance
@@ -27,6 +27,44 @@ This phase is critical to the success of the project. Expectations either of a c
 * Build multiple use cases to describe each action that a user will take in the new system.
 * Prototypes can be built to show the client what the end product will look like.
 
-___*2. Design*___
+***2. Design***
 
-Technical design requirements are prepared in this phase by lead development staff that can include architects and lead developers.  The Business Requirements are used to define how the application will be written.  Technical requirements will detail database tables to be added, new transactions to be defined, security processes and hardware and system requirements.
+Technical design requirements are prepared in this phase by lead development staff that can include architects and lead developers.  The Business Requirements are used to define how the application will be written.  Technical requirements will detail database tables to be added, new transactions to be defined, security processes and hardware and system requirements. The system design specifications serve as input for the next phase of the model. 
+
+Design elements describe the desired software features in detail, and generally include functional hierarchy diagrams, screen layout diagrams, tables of business rules, business process diagrams, pseudocode, and a complete entity-relationship diagram with a full data dictionary. These design elements are intended to describe the software in sufficient detail that skilled programmers may develop the software with minimal additional input design. 
+
+In this phase the testers comes up with the Test strategy, where they mention what to test, how to test.
+
+***3. Development***
+
+On receiving system design documents, the work is divided in modules/units and actual coding is started. Since, in this phase the code is produced so it is the main focus for the developer. This is the longest phase of the software development life cycle.
+
+After each stage, the developer may demonstrate the work accomplished to the Business Analysts and tweaks and enhancements may be required.  It’s important in this phase for developers to be open-minded and flexible if any changes are introduced. The finished product here is input to the Testing phase.
+
+
+***4. Testing***
+
+Once the application is migrated to a test environment, different types of testing will be performed including integration and system testing.  User acceptance testing is the last part of testing and is performed by the end users to ensure the system meets their expectations.  At this point, defects may be found and more work may be required in the analysis, design or coding.  Once sign-off is obtained by all relevant parties, implementation and deployment can begin.
+
+***5. Deployment***
+
+After successful testing the product is delivered / deployed to the customer for their use. As soon as the product is given to the customers they will first do the beta testing. If any changes are required or if any bugs are caught, then they will report it to the engineering team. Once those changes are made or the bugs are fixed then the final deployment will happen.
+
+The size of the project will determine the complexity of the deployment.  Training may be required for end users, operations and on-call IT staff.  Roll-out of the system may be performed in stages starting with one branch then slowly adding all locations or it could be a full blown implementation.
+
+***6. Maintenance***
+
+Once when the customers starts using the developed system then the actual problems comes up and needs to be solved from time to time. This process where the care is taken for the developed product is known as maintenance.
+
+---
+
+Due to the different types of projects have different requirements, it may be required to choose the SDLC phases according to the specific needs of the project. These different requirements and needs give us various software development approaches to choose from during software implementation.
+
+Below are some popular Software Development Models:
+
+- Waterfall
+- Iterative and Incremental
+- Spiral
+- V-Model
+- Agile
+- Rapid Action Development (RAD)
