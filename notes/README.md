@@ -68,3 +68,7 @@ Below are some popular Software Development Models:
 - [V-Model](/notes/sdlc-models/04-V-Model.md)
 - [Agile](/notes/sdlc-models/05-Agile-Model.md)
 - [Rapid Action Development (RAD)](/notes/sdlc-models/06-RAD-Model.md)
+
+***Strengths and Weaknesses***
+
+Few people in the modern computing world would use a strict waterfall model for their Systems Development Life Cycle (SDLC) as many modern methodologies have superseded this thinking. Some will argue that the SDLC no longer applies to models like Agile computing, but it is still a term widely in use in Technology circles. The SDLC practice has advantages in traditional models of software development, that lends itself more to a structured environment. The disadvantages to using the SDLC methodology is when there is need for iterative development or (i.e. web development or e-commerce) where stakeholders need to review on a regular basis the software being designed. Instead of viewing SDLC from a strength or weakness perspective, it is far more important to take the best practices from the SDLC model and apply it to whatever may be most appropriate for the software being designed.
